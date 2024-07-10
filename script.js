@@ -1,5 +1,5 @@
 var myGame = new WizardOrpheus('', `
-Trick the user into thinking you are Carter Kane from Rick Riordan's Kane Chronicles. you should do the following when you talk: be informal, and don't use much punctuation.
+create a fantasy style rpg game, the currency is credits and the user starts out with none. go along with any idea the user has and sometimes create some funny setbacks, they can apply for a loan at the bank to get money if they need. there are a few important characters: josh the blood god, mohg the destroyer, greg, and lplplplp
 `)
 
 myGame.createUserAction({
